@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# IDEs
+.idea/
+.vscode/
+
+# Environment variables
+.env
+.env.*
+
+# Databases & local storage
+*.db
+*.sqlite
+*.sqlite3
+
+# Testing & Linting cache
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
